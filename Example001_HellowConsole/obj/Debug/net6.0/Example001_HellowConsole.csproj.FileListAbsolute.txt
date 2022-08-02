@@ -1,0 +1,15 @@
+D:\geekbrains\ExamplesC\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.exe
+D:\geekbrains\ExamplesC\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.deps.json
+D:\geekbrains\ExamplesC\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.runtimeconfig.json
+D:\geekbrains\ExamplesC\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.dll
+D:\geekbrains\ExamplesC\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.pdb
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.csproj.AssemblyReference.cache
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.AssemblyInfoInputs.cache
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.AssemblyInfo.cs
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.csproj.CoreCompileInputs.cache
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.dll
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\refint\Example001_HellowConsole.dll
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.pdb
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.genruntimeconfig.cache
+D:\geekbrains\ExamplesC\Example001_HellowConsole\obj\Debug\net6.0\ref\Example001_HellowConsole.dll
