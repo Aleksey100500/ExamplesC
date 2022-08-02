@@ -1,0 +1,15 @@
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\bin\Debug\net6.0\Example005_IfElse_Condition.exe
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\bin\Debug\net6.0\Example005_IfElse_Condition.deps.json
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\bin\Debug\net6.0\Example005_IfElse_Condition.runtimeconfig.json
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\bin\Debug\net6.0\Example005_IfElse_Condition.dll
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\bin\Debug\net6.0\Example005_IfElse_Condition.pdb
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\Example005_IfElse_Condition.csproj.AssemblyReference.cache
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\Example005_IfElse_Condition.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\Example005_IfElse_Condition.AssemblyInfoInputs.cache
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\Example005_IfElse_Condition.AssemblyInfo.cs
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\Example005_IfElse_Condition.csproj.CoreCompileInputs.cache
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\Example005_IfElse_Condition.dll
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\refint\Example005_IfElse_Condition.dll
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\Example005_IfElse_Condition.pdb
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\Example005_IfElse_Condition.genruntimeconfig.cache
+D:\geekbrains\ExamplesC\Example005_IfElse_Condition\obj\Debug\net6.0\ref\Example005_IfElse_Condition.dll
